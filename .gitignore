@@ -1,0 +1,12 @@
+.DS_Store
+resources
+data
+out
+notes.txt
+
+.ipynb_checkpoints
+__pycache__
+
+pliers
+scenedetect
+videosync_alignment.py
